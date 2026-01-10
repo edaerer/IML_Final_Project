@@ -14,11 +14,11 @@
     ```
     - For Ubuntu:
         ```bash
-        source ./venv/bin/activate
+        source ./<venv_name>/bin/activate
         ```
     - For Windows:
         ```powershell
-        .\venv\Scripts\Activate.ps1
+        .\<venv_name>\Scripts\Activate.ps1
         ```
 2. Select Kernel (venv Python)
 3. Install Requirements (first cell in the notebook)
