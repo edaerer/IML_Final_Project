@@ -1,0 +1,8 @@
+# Ignore all files and directories
+*
+!.gitignore
+
+# Include only these files
+!android.ipynb
+!README.md
+!requirements.txt
